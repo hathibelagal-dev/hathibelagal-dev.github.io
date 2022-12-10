@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hathibelagal&#39;s Ramblings</title>
+    <description>Home for various technical and non-technical articles written.
+</description>
+    <link>https://hathibelagal-dev.github.io/</link>
+    <atom:link href="https://hathibelagal-dev.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 11 Dec 2022 00:58:25 +0100</pubDate>
+    <lastBuildDate>Sun, 11 Dec 2022 00:58:25 +0100</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Welcome to my blog!</title>
+        <description>&lt;p&gt;This is my first post. Running Jekyll and hosting on GitHub Pages was fun and easy.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Dec 2022 00:51:58 +0100</pubDate>
+        <link>https://hathibelagal-dev.github.io/update/2022/12/11/init.html</link>
+        <guid isPermaLink="true">https://hathibelagal-dev.github.io/update/2022/12/11/init.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
