@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hathibelagal&#39;s Ramblings</title>
+    <description>Home for various technical and non-technical articles written.
+</description>
+    <link>https://hathibelagal-dev.github.io/</link>
+    <atom:link href="https://hathibelagal-dev.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 06 May 2023 18:53:13 +0200</pubDate>
+    <lastBuildDate>Sat, 06 May 2023 18:53:13 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Privacy Policy</title>
+        <description>&lt;p&gt;None of my applications collect or store personal data.&lt;/p&gt;
+
+&lt;p&gt;If you installed my applications from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services &lt;a href=&quot;https://policies.google.com/privacy&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 May 2023 00:00:00 +0200</pubDate>
+        <link>https://hathibelagal-dev.github.io/update/2023/05/06/privacypolicy.html</link>
+        <guid isPermaLink="true">https://hathibelagal-dev.github.io/update/2023/05/06/privacypolicy.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>On Apps</title>
+        <description>&lt;p&gt;Haven’t worked on any large personal projects in a long while now. I hope to change that. Starting today.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 06 May 2023 00:00:00 +0200</pubDate>
+        <link>https://hathibelagal-dev.github.io/update/2023/05/06/onapps.html</link>
+        <guid isPermaLink="true">https://hathibelagal-dev.github.io/update/2023/05/06/onapps.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to my blog!</title>
+        <description>&lt;p&gt;This is my first post. Running Jekyll and hosting on GitHub Pages was fun and easy.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Dec 2022 00:51:58 +0100</pubDate>
+        <link>https://hathibelagal-dev.github.io/update/2022/12/11/init.html</link>
+        <guid isPermaLink="true">https://hathibelagal-dev.github.io/update/2022/12/11/init.html</guid>
+        
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

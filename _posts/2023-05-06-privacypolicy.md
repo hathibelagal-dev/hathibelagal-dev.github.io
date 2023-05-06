@@ -1,4 +1,8 @@
-# Privacy Policy
+---
+layout: post
+title: "Privacy Policy"
+categories: update
+---
 
 None of my applications collect or store personal data.
 

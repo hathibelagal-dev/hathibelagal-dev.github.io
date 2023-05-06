@@ -1,0 +1,10 @@
+title: Hathibelagal's Ramblings
+description: >
+  Home for various technical and non-technical articles written.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hathibelagal-dev.github.io"
+twitter_username: hathibel
+github_username:  hathibelagal-dev
+
+# Build settings
+markdown: kramdown
