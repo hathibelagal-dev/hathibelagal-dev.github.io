@@ -10,3 +10,8 @@ Finally found the time to update three of my old Flutter packages. They support 
 - [LEB128](https://pub.dev/packages/leb128)
 
 Of course, they're open source and you can find the code on [GitHub](https://github.com/hathibelagal-dev).
+
+*May 26th edit*:
+Updated yet another package. It's weird that caffeine forces me to keep my repositories updated.
+
+- [CSS Text for Flutter](https://pub.dev/packages/css_text)
