@@ -14,7 +14,7 @@
 
 #go {
     width: 20%;
-    background: #194f7f;
+    background: rgb(116, 143, 202);
     color: white;
     text-decoration: none;
     padding: 8px;
@@ -29,6 +29,7 @@ body {
     text-align: center;
     font-family: sans-serif;
     color: #444;
+    background-image: url('../imgs/rose.jpg')
 }
 
 .container {
@@ -40,6 +41,7 @@ body {
     border-radius: 16px;
     display: inline-block;
     margin: 16px;
+    background: #ffffff99;
 }
 
 .item {    
