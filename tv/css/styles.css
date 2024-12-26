@@ -14,7 +14,7 @@
 
 #go {
     width: 20%;
-    background: rgb(116, 143, 202);
+    background: #174f80;
     color: white;
     text-decoration: none;
     padding: 8px;
@@ -41,7 +41,7 @@ body {
     border-radius: 16px;
     display: inline-block;
     margin: 16px;
-    background: #7576c999;
+    background: #174f8033;
 }
 
 .item {    
