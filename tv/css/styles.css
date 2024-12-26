@@ -29,7 +29,7 @@ body {
     text-align: center;
     font-family: sans-serif;
     color: #444;
-    background-image: url('../imgs/rose.jpg')
+    background: white;
 }
 
 .container {
@@ -41,7 +41,7 @@ body {
     border-radius: 16px;
     display: inline-block;
     margin: 16px;
-    background: #ffffff99;
+    background: #7576c999;
 }
 
 .item {    
