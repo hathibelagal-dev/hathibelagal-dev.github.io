@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="dark" />
+    <title>Hathi Browser</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <img src="imgs/logo.png" id="logo" />
+    <input id="address_bar" type="url" placeholder="Website address" />
+    <a href="#" id="go" onclick="visit()">Go</a>
+    <div class="containers_holder">
+      <div class="container">
+        <h2>Favorites</h2>
+        <div class="items_holder">
+          <a href="#" onclick="visit('google.com/')">
+            <div class="item">Google</div>
+          </a>
+          <a href="#" onclick="visit('en.wikipedia.org/')">
+            <div class="item">Wikipedia</div>
+          </a>
+          <a href="#" onclick="visit('old.reddit.com/')">
+            <div class="item">Reddit</div>
+          </a>
+          <a href="#" onclick="visit('github.com')">
+            <div class="item">GitHub</div>
+          </a>
+        </div>
+      </div>
+      <div class="container">
+        <h2>Other</h2>
+        <div class="items_holder">
+          <a href="#" onclick="visit('maps.google.com/')">
+            <div class="item">Maps</div>
+          </a>
+          <a href="#" onclick="visit('chatgpt.com/')">
+            <div class="item">ChatGPT</div>
+          </a>
+          <a href="#" onclick="visit('news.google.com/')">
+            <div class="item">News</div>
+          </a>
+          <a href="#" onclick="visit('techcrunch.com')">
+            <div class="item">TechCrunch</div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <script>
+      function visit(address) {
+        if (!address) {
+          address = document.getElementById("address_bar").value;
+        }
+        if (address.indexOf("://") == -1) {
+          address = "https://" + address;
+        }
+        window.location.href = address;
+      }
+    </script>
+  </body>
+</html>
