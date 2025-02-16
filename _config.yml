@@ -1,10 +1,18 @@
 title: Hathibelagal's Ramblings
 description: >
-  Home for various technical and non-technical articles written.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Home for various technical and non-technical articles I write.
+baseurl: "/"
+author:
+  name: Ashraff Hathibelagal
+  twitter: hathibel
 url: "https://hathibelagal-dev.github.io"
 twitter_username: hathibel
 github_username:  hathibelagal-dev
+twitter:
+  username: hathibel
+  card: summary
 
-# Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
